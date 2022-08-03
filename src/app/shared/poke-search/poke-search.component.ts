@@ -18,4 +18,5 @@ export class PokeSearchComponent implements OnInit {
     this.emmitSearch.emit(value);
   }
 
+
 }
